@@ -19,7 +19,7 @@ O diretório de trabalho atual terá subpastas correspondentes às extensões do
 
 <hr>
 
-# Descompactador de Pastas:
+# Descompactador de Pastas
 
 ## Como funciona:
 
